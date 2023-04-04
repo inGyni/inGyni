@@ -15,7 +15,7 @@
 ### :man_technologist: Know Me :
 I am a Software Engineer, Backend Web Developer, Linux Enthusiast and Cyber Security Student from Egypt and living in the UK.
 
-I am a hobbyist programmer, and have been learning and developing desktop programs, web applications and websites for over 8 years. I have a passion for learning new things and I am always looking for new challenges. I am currently studying Cyber Security at The Open University UK and working on [my blog](https://gyni.xyz) and use Arch Linux as my daily driver.
+I am a hobbyist programmer, and have been learning and developing desktop programs, web applications and websites for over 8 years. I have a passion for learning new things and I am always looking for new challenges. I am currently studying Cyber Security at The Open University UK and working on [my blog](https://blog.gyni.xyz) and use Arch Linux as my daily driver.
 
 I am starting to get more involved in the open source community and I am looking for new opportunities to learn and grow as a developer. as well as taking a peak into hardware and networking.
 
