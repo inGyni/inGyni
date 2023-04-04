@@ -51,8 +51,8 @@ I am starting to get more involved in the open source community and I am looking
 ---
 
 ### :fire: My Github Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ingyni&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ingyni&theme=transparent&background=00000000)](https://git.io/streak-stats)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ingyni&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingyni&show_icons=true&theme=transparent)
 
 ---
