@@ -15,7 +15,7 @@
 ### :man_technologist: Know Me :
 I am a Software Engineer, Backend Web Developer, Linux Enthusiast and Cyber Security Student from Egypt and living in the UK.
 
-I am a hobbyist programmer, and have been learning and developing desktop programs, web applications and websites for over 8 years. I have a passion for learning new things and I am always looking for new challenges. I am currently studying Cyber Security at The Open University UK and working on [my blog](https://blog.gyni.net) and use Arch Linux as my daily driver.
+I am a hobbyist programmer, and have been learning and developing desktop programs, web applications and websites for over 8 years. I have a passion for learning new things and I am always looking for new challenges. I am currently studying Cyber Security at The Open University UK and i use Arch Linux btw.
 
 I am starting to get more involved in the open source community and I am looking for new opportunities to learn and grow as a developer. as well as taking a peak into hardware and networking.
 
@@ -36,8 +36,8 @@ I am starting to get more involved in the open source community and I am looking
 ---
 
 - 🔭 I’m currently working on:
+    - [My Website](https://www.gyni.net)
     - [My Blog](https://blog.gyni.net)
-    - [My Portfolio](https://portfolio.gyni.net/)
 - 🌱 I’m currently learning:
     - Cyber Security
     - Networking
@@ -46,7 +46,7 @@ I am starting to get more involved in the open source community and I am looking
     - [Email](mailto:ali@gyni.net)
     - [LinkedIn](https://www.linkedin.com/in/ali-abdelkarim/)
     - [Twitter](https://twitter.com/mr_gyni)
-    - [Discord](https://discord.com/profiles/310579681701265408)
+    - Discord: MrGyni#2174
 
 ---
 
