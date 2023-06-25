@@ -46,7 +46,7 @@ I am starting to get more involved in the open source community and I am looking
     - [Email](mailto:ali@gyni.net)
     - [LinkedIn](https://www.linkedin.com/in/ali-abdelkarim/)
     - [Twitter](https://twitter.com/mr_gyni)
-    - Discord: MrGyni#2174
+    - Discord: mrgyni
 
 ---
 
