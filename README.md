@@ -96,10 +96,10 @@ NOTE: I am not a master of all these skills by all means, but I have a ton exper
     - [Optimum RP FiveM Server](https://github.com/OptimumRP)
     - My Homelab (More info soon ;D)
 - 🌱 I’m currently learning/studying:
-    - Cyber Security - Part Time
-    - Comptia A+ - Full Time
-    - Comptia Security+ - Part Time
-    - Comptia Network+ - Part Time
+    - BSc (Hons) Cyber Security - Part Time
+    - CompTIA A+ - Full Time
+    - CompTIA Security+ - Part Time
+    - CompTIA Network+ - Part Time
     - Cisco CCNA: - Part Time
     - Microsoft MD-101: Managing Modern Desktops - Part Time
     - Microsoft MD-100: Windows 10 - Part Time
