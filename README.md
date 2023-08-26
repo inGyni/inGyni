@@ -1,58 +1,116 @@
-<div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/ali-abdelkarim/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/mr_gyni">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=inGyni&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <h1>Welcome to my profile</h1>
 </div>
 
----
-
 ### :man_technologist: Know Me :
-I am a Software Engineer, Backend Web Developer, Linux Enthusiast and Cyber Security Student from Egypt and living in the UK.
+I am a Software Engineer, Web Developer, Linux Enthusiast and Cyber Security Student.
 
-I am a hobbyist programmer, and have been learning and developing desktop programs, web applications and websites for over 8 years. I have a passion for learning new things and I am always looking for new challenges. I am currently studying Cyber Security at The Open University UK and i use Arch Linux btw.
+I have been learning and developing desktop programs, web applications and websites for over 8 years.
+I have a passion for learning new things and I am always looking for new challenges.
+I am currently studying Cyber Security at The Open University UK.
 
-I am starting to get more involved in the open source community and I am looking for new opportunities to learn and grow as a developer. as well as taking a peak into hardware and networking.
+I am starting to get more involved in the open source community and I am looking for new opportunities to learn and develop as a developer (pun intended).
+
+You can find all of my skills below. 
+
+NOTE: I am not a master of all these skills by all means, but I have a ton experience using them. If you are an employer and want to know my skill level, contact me on my [Email](mailto:ali@gyni.net) or [LinkedIn](https://www.linkedin.com/in/ali-abdelkarim/), or visit my repositories.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Programming Languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" height="30"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS" height="30"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript" height="30"/>
+  <br/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" height="30"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#" alt="C#" height="30"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++" height="30"/>
+  <br/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python" height="30"/>
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" title="Lua" alt="Lua" height="30"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" title="PHP" alt="PHP" height="30"/>
+  <br/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" title="Ardunio"  alt="Ardunio" height="30"/>
+</div>
+
+### Frameworks:
+<div>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS" height="30"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="ExpressJS"  alt="ExpressJS" height="30"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title=".NET"  alt=".NET" height="30"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo" title="Hugo"  alt="Hugo" height="30"/>
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" title="jQuery"  alt="jQuery" height="30"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" title="JWT"  alt="JWT" height="30"/>
+  <br/>
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM"  alt="NPM" height="30"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"  alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" title="Socket.io" alt="Socket.io" height="30"/>
+  <br/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" title="TailwindCSS"  alt="TailwindCSS" height="30"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"  alt="Postman" height="30"/>
+</div>
+
+### Databases:
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" height="30"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" height="30"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" title="MariaDB"  alt="MariaDB" height="30"/>
+</div>
+
+### Version Control:
+<div>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" height="30"/>
+</div>
+
+### Web Servers:
+<div>
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" title="NGINX" alt="NGINX" height="30"/>
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" title="Apache" alt="Apache" height="30"/>
+</div>
+
+### Hosting:
+<div>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS" height="30"/>
+  <img src="https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr" title="Vultr" alt="Vultr" height="30"/>
+  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" title="GitHub Pages" alt="GitHub Pages" height="30"/>
+  <br/>
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" alt="Heroku" height="30"/>
+  <img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white" title="Glitch" alt="Glitch" height="30"/>
+</div>
+
+### Operating Systems:
+<div>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" title="Arch Linux"  alt="Arch Linux" height="30"/>
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" title="Debian"  alt="Debian" height="30"/>
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" title="Kali Linux"  alt="Kali Linux" height="30"/>
+  <br/>
+  <img src="https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" title="OpenWRT"  alt="OpenWRT" height="30"/>
+  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" title="Windows 11"  alt="Windows 11" height="30"/>
 </div>
 
 ---
 
 - 🔭 I’m currently working on:
-    - [My Website](https://www.gyni.net)
-    - [My Blog](https://blog.gyni.net)
-- 🌱 I’m currently learning:
-    - Cyber Security
-    - Networking
-    - Domain DNS and Web Hosting
+    - [Optimum RP FiveM Server](https://github.com/OptimumRP)
+    - My Homelab (More info soon ;D)
+- 🌱 I’m currently learning/studying:
+    - Cyber Security - Part Time
+    - Comptia A+ - Full Time
+    - Comptia Security+ - Part Time
+    - Comptia Network+ - Part Time
+    - Cisco CCNA: - Part Time
+    - Microsoft MD-101: Managing Modern Desktops - Part Time
+    - Microsoft MD-100: Windows 10 - Part Time
 - 📫 How to reach me:
-    - [Email](mailto:ali@gyni.net)
     - [LinkedIn](https://www.linkedin.com/in/ali-abdelkarim/)
     - [Twitter](https://twitter.com/mr_gyni)
-    - Discord: mrgyni
+    - [Email](mailto:ali@gyni.net)
+    - Discord: [mrgyni](https://discord.com/users/310579681701265408)
 
 ---
 
-### :fire: My Github Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ingyni&theme=transparent&background=00000000)](https://git.io/streak-stats)
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingyni&show_icons=true&theme=transparent)
-
----
+<div align="center">
+  <h3>Thanks for visiting my profile, hope you enjoyed your stay!</h3>
+</div>
