@@ -2,7 +2,7 @@
   <h1>Welcome to my profile</h1>
 </div>
 
-### :man_technologist: Know Me :
+### 👨‍💻 Know Me :
 I am a Software Engineer, Web Developer, Linux Enthusiast and Cyber Security Student.
 
 I have been learning and developing desktop programs, web applications and websites for over 8 years.
