@@ -15,6 +15,14 @@ You can find all of my skills below.
 
 NOTE: I am not a master of all these skills by all means, but I have a ton experience using them. If you are an employer and want to know my skill level, contact me on my [Email](mailto:ali@gyni.net) or [LinkedIn](https://www.linkedin.com/in/ali-abdelkarim/), or visit my repositories.
 
+--- 
+
+### Certifications:
+
+
+#### CompTIA A+ Certified
+<img src="https://github.com/user-attachments/assets/76290348-c3c8-4959-827a-a2570175b2c9" alt="comptia a+ certificate badge" width="200"/>
+
 ---
 
 ### Programming Languages:
@@ -96,16 +104,11 @@ NOTE: I am not a master of all these skills by all means, but I have a ton exper
 ---
 
 - 🔭 I’m currently working on:
-    - Twitch Custom Overlays API (Ongoing)
-    - Portfolio (On hold)
+    - Portfolio (Ongoing)
+    - Twitch Custom Overlays API (On hold)
 - 🌱 I’m currently learning/studying:
     - BSc (Hons) Cyber Security - Part Time
-    - CompTIA A+ - Studied (Awaiting Exam)
-    - CompTIA Security+ - Studied (Awaiting Exam)
-    - CompTIA Network+ - Studied (Awaiting Exam)
-    - Cisco CCNA: - Studied (Awaiting Exam)
-    - Microsoft MD-101: Managing Modern Desktops - Studied (Awaiting Exam)
-    - Microsoft MD-100: Windows 10 - Studied (Awaiting Exam)
+    - CompTIA Network+ (Studying)
 - 📫 How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/ali-abdelkarim/)
     - [Twitter](https://twitter.com/mr_gyni)
