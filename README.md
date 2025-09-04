@@ -13,7 +13,7 @@ I am starting to get more involved in the open source community and I am looking
 
 You can find all of my skills below. 
 
-NOTE: I am not a master of all these skills by all means, but I have a ton experience using them. If you are an employer and want to know my skill level, contact me on my [Email](mailto:ali@gyni.net) or [LinkedIn](https://www.linkedin.com/in/ali-abdelkarim/), or visit my repositories.
+NOTE: I am not a master of all these skills by all means, but I have a ton experience using them. If you are an employer and want to know my skill level, contact me on my [Email](mailto:allyromaih@gmail.com) or [LinkedIn](https://www.linkedin.com/in/allyromaih/), or visit my repositories.
 
 --- 
 
@@ -110,10 +110,8 @@ NOTE: I am not a master of all these skills by all means, but I have a ton exper
     - BSc (Hons) Cyber Security - Part Time
     - CompTIA Network+ (Studying)
 - 📫 How to reach me:
-    - [LinkedIn](https://www.linkedin.com/in/ali-abdelkarim/)
-    - [Twitter](https://twitter.com/mr_gyni)
-    - [Email](mailto:ali@gyni.net)
-    - Discord: [mrgyni](https://discord.com/users/310579681701265408)
+    - [LinkedIn](https://www.linkedin.com/in/allyromaih/)
+    - [Email](mailto:allyromaih@gmail.com)
 
 ---
 
